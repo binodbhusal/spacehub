@@ -23,6 +23,7 @@
   color: #2f89fc;
   font-size: 1.05em;
 }
+
 .my-profile section {
   flex: 1;
 }
@@ -37,7 +38,7 @@
 .pageLink:nth-child(2) {
   border-right: solid 1px gray;
 }
-.pageLink a{
+
+.pageLink a {
   text-decoration: none;
 }
-
