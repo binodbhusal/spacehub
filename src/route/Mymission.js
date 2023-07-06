@@ -1,10 +1,8 @@
-import MissionList from "../Components/Missions/MissionList";
+import MissionList from '../Components/Missions/MissionList';
 
-const Mymission = () => {
-return (
-    <>
+const Mymission = () => (
+  <>
     <MissionList />
-    </>
-)
-}
+  </>
+);
 export default Mymission;

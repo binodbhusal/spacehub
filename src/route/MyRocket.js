@@ -1,10 +1,8 @@
-import RocketList from "../Components/Rockets/RocketList";
+import RocketList from '../Components/Rockets/RocketList';
 
-const Myrocket = () => {
-    return (
-        <>
-        <RocketList />
-        </>
-    )
-}
+const Myrocket = () => (
+  <>
+    <RocketList />
+  </>
+);
 export default Myrocket;
