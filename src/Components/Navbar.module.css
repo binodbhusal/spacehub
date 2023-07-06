@@ -13,6 +13,10 @@
   text-decoration: none;
 }
 
+.navLogo {
+  font-size: 1.5em;
+}
+
 .menu {
   display: flex;
   flex-direction: row;
@@ -36,7 +40,7 @@
 }
 
 .pageLink:nth-child(2) {
-  border-right: solid 1px gray;
+  border-right: solid 1.5px #d3d3d3;
 }
 
 .pageLink a {

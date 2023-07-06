@@ -1,4 +1,4 @@
-import { NavLink } from 'react-router-dom';
+import { NavLink, Link } from 'react-router-dom';
 import { Container, Nav } from 'react-bootstrap';
 import styles from './Navbar.module.css';
 
@@ -6,7 +6,7 @@ const Navbar = () => (
   <Container>
     <Nav className={styles.navContainer}>
       <h2 className={styles.navLogo}>
-        <NavLink to="/">
+        <Link to="/">
           {' '}
           <img
             width="40"
@@ -15,7 +15,7 @@ const Navbar = () => (
             alt="saturn-planet"
           />
           Space Hub Travellers
-        </NavLink>
+        </Link>
       </h2>
       <ul className={styles.menu}>
         <li className={styles.pageLink}>
