@@ -159,7 +159,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Share and Review!
 
-We invite you to share this project with others and provide a favorable review if you find it to be useful.
+I invite you to share this project with others and provide a favorable review if you find it to be useful.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,11 +173,6 @@ We invite you to share this project with others and provide a favorable review i
 
 ## ❓ FAQ <a name="faq"></a>
 
-  
-- **How to build Space Travelers' Hub?**
-
-  - Follow the steps in this link https://github.com/microverseinc/curriculum-react-redux/blob/main/group-project/project_space_travelers_hub.md
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -187,4 +182,3 @@ This project is [MIT](./MIT.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
